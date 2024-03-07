@@ -1,9 +1,14 @@
-body {
-    background-color:brown;
-    color: blanchedalmond;
+ :root{
+--vermelho: #7a071b;
+--branco: #ffffff;
+ }
+ 
+ body{
+    background-color: var(--vermelho);
+    color: var(--branco);
 }
 
 img{
-    width:20 %
+    width:20%
     ;
 }
