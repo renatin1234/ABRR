@@ -16,3 +16,6 @@ header{
     align-items: flex-start;
     justify-content: space-between;
 }
+.img-intro{
+    width: 20%;
+}
