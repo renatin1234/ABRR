@@ -19,3 +19,7 @@ header{
 .img-foto-1-casal{
     width: 20%;
 }
+
+.img-foto-1-casal{
+    display: flex;
+}
