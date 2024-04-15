@@ -15,7 +15,9 @@ header{
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-   background-color: #afa2a2;
+   background-color: #afa2a2; 
+   align-items: center;
+}
    
 }
 .img-foto-1-casal{
