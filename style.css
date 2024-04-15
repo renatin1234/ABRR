@@ -35,8 +35,8 @@ header{
 }
 
 .pessoa{
-        border: 3px solid  var(--branco);
-        margin: 12px; color: #000000;
+        border: 3px solid  var(--preto);
+        margin: 12px;
     }
 
     footer{
