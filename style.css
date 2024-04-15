@@ -35,13 +35,13 @@ header{
 }
 
 .pessoa{
-        border: 3px solid  var(--preto);
+        border: 3px solid  var(--branco);
         margin: 12px;
     }
 
     footer{
         background-color: #000000;
-        color: #000000;
+        color: #ffffff;
     }
 
     a{
