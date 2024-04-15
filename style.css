@@ -1,11 +1,11 @@
  :root{
---vermelho: #fdfdfd;
---branco: #000000;
+--branco: #fdfdfd;
+--preto: #000000;
  }
  
  body{
-    background-color: var(--vermelho);
-    color: var(--branco);
+    background-color: var(--branco);
+    color: var(--preto);
 }
 
 img{
